@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charest="UTF8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mamypoko</title>
+    <link rel="stylessheet" href="styles.css">
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charest="UTF8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mamypoko</title>
+    <link rel="stylessheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Play store</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">หน้าแรก</a></li>
+            <li><a href="#">เกี่ยวกับ</a></li>
+            <li><a href="#">บริการ</a></li>
+            <li><a href="#">ติดต่อ</a></li>
+        </ul>
+    </nav>
+    <section class="main-content">
+        <div class="content">
+            <h2>main page</h2>
+            <p>Survival</p>
+            <button onclick="window.location.href='#'"></button>
+        </div>
+        <img src="ps5.jpg" alt="ภาพตัวอย่าง">
+    </section>
+    <footer>
+        <p>folow on social:
+            <a href="https://www.instagram.com/tt.xth/?next=%2F">instagram</a>
+        </p>
+        <p>&copy; 2024 home</p>
+    </footer>
+    
+    <script src="scripts.js"></script>
+</body>
+</html><body>
+    <header>
+        <h1>Welcome to Play store</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">หน้าแรก</a></li>
+            <li><a href="#">เกี่ยวกับ</a></li>
+            <li><a href="#">บริการ</a></li>
+            <li><a href="#">ติดต่อ</a></li>
+        </ul>
+    </nav>
+    <section class="main-content">
+        <div class="content">
+            <h2>main page</h2>
+            <p>Survival</p>
+            <button onclick="window.location.href='#'"></button>
+        </div>
+        <img src="ps5.jpg" alt="ภาพตัวอย่าง">
+    </section>
+    <footer>
+        <p>folow on social:
+            <a href="https://www.instagram.com/tt.xth/?next=%2F">instagram</a>
+        </p>
+        <p>&copy; 2024 home</p>
+    </footer>
+    
+    <script src="scripts.js"></script>
+</body>
+</html>
